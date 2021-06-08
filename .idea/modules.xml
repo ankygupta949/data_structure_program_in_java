@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Queueprograms/Queueprograms.iml" filepath="$PROJECT_DIR$/Queueprograms/Queueprograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array programs/array programs.iml" filepath="$PROJECT_DIR$/array programs/array programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/booleandatatypeconcept/booleandatatypeconcept.iml" filepath="$PROJECT_DIR$/booleandatatypeconcept/booleandatatypeconcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionprograms/collectionprograms.iml" filepath="$PROJECT_DIR$/collectionprograms/collectionprograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlistprograms/linkedlistprograms.iml" filepath="$PROJECT_DIR$/linkedlistprograms/linkedlistprograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapinterfaceprogram/mapinterfaceprogram.iml" filepath="$PROJECT_DIR$/mapinterfaceprogram/mapinterfaceprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrixprogram/matrixprogram.iml" filepath="$PROJECT_DIR$/matrixprogram/matrixprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stackprograms/stackprograms.iml" filepath="$PROJECT_DIR$/stackprograms/stackprograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringprograms/stringprograms.iml" filepath="$PROJECT_DIR$/stringprograms/stringprograms.iml" />
+    </modules>
+  </component>
+</project>
